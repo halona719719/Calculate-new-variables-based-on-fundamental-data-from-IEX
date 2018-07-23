@@ -1,0 +1,1 @@
+# Calculate-new-variables-based-on-fundamental-data-from-IEX
